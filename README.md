@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently developing my skills in Docker and conducting sentiment analysis on trading markets.<br>👯 I’m looking to collaborate on projects involving financial analysis and trading, particularly those using machine learning techniques.<br>🤝 I’m looking for help with enhancing my deep learning skills and applying them to financial modeling and analysis.<br>🌱 I’m currently learning advanced deep learning techniques and their applications in stock market prediction.<br>💬 Ask me about my research on stock market analysis using machine learning.<br>⚡ Fun fact: I love integrating AI with finance to innovate predictive models and enhance trading strategies!<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hosseinrezaei951) 
 
 # 
